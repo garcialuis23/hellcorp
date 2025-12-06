@@ -1,6 +1,4 @@
-# 🔥 PRUEBA TÉCNICA 1: "HELLCORP - Integración y Análisis de Datos en el Inframundo"
-
-## [Enlace GitHub](https://classroom.github.com/a/_-ogne2a)
+# HELLCORP - Integración y Análisis de Datos en el Inframundo
 
 ---
 

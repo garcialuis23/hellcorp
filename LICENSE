@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2025 Luis
+Copyright (c) 2025 Luis García
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +19,41 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+## 🔥 HELLCORP PROJECT - ADDITIONAL TERMS
+
+This project was developed as part of a data engineering educational exercise
+focused on data cleaning, SQL database integration, and AI conceptual design.
+
+### Project Components:
+
+- **CSV Data Files**: Sample datasets for educational purposes
+- **Python Scripts**: Data transformation and cleaning pipelines
+- **SQL Scripts**: Database schema and query examples
+- **Documentation**: Markdown files with project analysis and reports
+
+### Usage Notes:
+
+1. The project is designed for educational and portfolio purposes
+2. All data is fictional and created for the narrative context
+3. The MySQL database schema is provided as a reference implementation
+4. Users should modify connection strings and credentials for their own environments
+
+### Acknowledgments:
+
+This project demonstrates practical skills in:
+- Data cleaning and transformation with Pandas
+- SQL database design and complex queries
+- Documentation and technical reporting
+- Theoretical AI/ML system design
+
+For questions or collaboration, please contact the repository owner.
+
+---
+
+**Project Name:** HELLCORP - Data Engineering in the Underworld  
+**Author:** Luis García  
+**Year:** 2025  
+**Repository:** https://github.com/garcialuis23/hellcorp
