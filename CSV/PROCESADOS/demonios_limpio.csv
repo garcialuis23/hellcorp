@@ -1,0 +1,501 @@
+id_demonio,nombre_demonio,rango,especialidad,nivel_ira,siglo_servicio,activo
+1,Scott Devoraalmas,Analista Infernal,Castigos psicológicos,58,18,1
+2,Elaine el Cruel,Verdugo,Contratos,40,20,1
+3,James Incontable,Analista Infernal,Recaudación,38,16,1
+4,Kimberly el Cruel,Archidemonio,Fuego,72,20,1
+5,Elizabeth Incontable,Íncubo,Castigos psicológicos,42,19,1
+6,Belinda la Sombra,Súcubo,Almas corruptas,75,17,0
+7,David Incontable,Archidemonio,Castigos psicológicos,58,17,0
+8,Adam el Cruel,Súcubo,Castigos psicológicos,66,15,1
+9,Amy Incontable,Analista Infernal,Castigos psicológicos,82,14,1
+10,Jeremy Incontable,Íncubo,Recaudación,98,13,1
+11,Glenn el Cruel,Archidemonio,Recaudación,10,18,0
+12,Jerry el Cruel,Íncubo,Fuego,43,20,0
+13,Nicole Incontable,Verdugo,Contratos,60,13,1
+14,Derrick Devoraalmas,Verdugo,Contratos,42,13,0
+15,Matthew Eterno,Verdugo,Contratos,66,14,1
+16,Kimberly la Sombra,Súcubo,Fuego,81,15,1
+17,Kyle Incontable,Súcubo,Almas corruptas,55,20,0
+18,Jason Eterno,Verdugo,Recaudación,40,19,0
+19,Alexandra el Cruel,Súcubo,Castigos psicológicos,92,14,1
+20,James Eterno,Archidemonio,Contratos,21,12,0
+21,Amy la Sombra,Súcubo,Contratos,1,20,0
+22,Jeremy Eterno,Analista Infernal,Castigos psicológicos,95,15,0
+23,Michelle la Sombra,Archidemonio,Almas corruptas,63,14,0
+24,Stacy el Cruel,Analista Infernal,Almas corruptas,11,15,1
+25,Kathleen Eterno,Súcubo,Almas corruptas,83,15,0
+26,Sean Incontable,Analista Infernal,Fuego,75,14,0
+27,Jose Eterno,Súcubo,Contratos,17,21,0
+28,Andrew Incontable,Archidemonio,Castigos psicológicos,79,19,0
+29,Daniel Incontable,Súcubo,Almas corruptas,66,17,1
+30,Jacob el Cruel,Íncubo,Castigos psicológicos,53,19,0
+31,Gary el Cruel,Analista Infernal,Recaudación,18,17,1
+32,Joshua la Sombra,Verdugo,Recaudación,70,21,0
+33,John Devoraalmas,Analista Infernal,Almas corruptas,54,13,0
+34,Jason Incontable,Íncubo,Contratos,42,16,1
+35,Joseph Devoraalmas,Analista Infernal,Recaudación,4,15,0
+36,Dakota el Cruel,Archidemonio,Contratos,19,16,0
+37,Alexandra Incontable,Analista Infernal,Almas corruptas,97,14,0
+38,Amber Devoraalmas,Verdugo,Almas corruptas,72,20,0
+39,Shawn Eterno,Analista Infernal,Contratos,17,21,0
+40,Jennifer Devoraalmas,Analista Infernal,Fuego,50,16,1
+41,Aaron Devoraalmas,Archidemonio,Contratos,66,19,1
+42,Robert el Cruel,Súcubo,Recaudación,46,21,1
+43,Garrett Incontable,Verdugo,Castigos psicológicos,79,12,1
+44,Natasha Devoraalmas,Súcubo,Recaudación,85,14,1
+45,Meredith la Sombra,Analista Infernal,Recaudación,96,13,1
+46,Kyle la Sombra,Archidemonio,Almas corruptas,32,12,0
+47,Tiffany Devoraalmas,Analista Infernal,Fuego,76,17,0
+48,Paul Eterno,Íncubo,Castigos psicológicos,40,13,1
+49,Daniel la Sombra,Verdugo,Contratos,100,21,0
+50,David Devoraalmas,Archidemonio,Recaudación,92,15,1
+51,Robert Incontable,Verdugo,Castigos psicológicos,62,21,0
+52,Andrea Eterno,Verdugo,Almas corruptas,92,14,0
+53,Beth Incontable,Verdugo,Castigos psicológicos,52,14,0
+54,April Eterno,Analista Infernal,Recaudación,71,21,1
+55,Destiny Devoraalmas,Analista Infernal,Contratos,95,15,1
+56,Heidi Devoraalmas,Archidemonio,Castigos psicológicos,12,17,0
+57,Sharon la Sombra,Íncubo,Contratos,73,15,0
+58,William Eterno,Analista Infernal,Fuego,87,16,1
+59,Darin Eterno,Íncubo,Almas corruptas,10,19,0
+60,Henry Devoraalmas,Analista Infernal,Contratos,22,19,0
+61,Tammy Eterno,Súcubo,Almas corruptas,43,21,1
+62,Chelsea la Sombra,Analista Infernal,Fuego,71,19,0
+63,Mark el Cruel,Súcubo,Recaudación,12,14,0
+64,Luis Eterno,Analista Infernal,Fuego,77,17,0
+65,Andrea Eterno,Súcubo,Recaudación,68,13,0
+66,Jonathan la Sombra,Analista Infernal,Recaudación,26,21,1
+67,Carrie el Cruel,Archidemonio,Recaudación,32,20,0
+68,Mario Devoraalmas,Súcubo,Contratos,30,20,1
+69,Carrie Eterno,Súcubo,Recaudación,14,17,0
+70,James Incontable,Archidemonio,Contratos,59,13,0
+71,Amy Eterno,Archidemonio,Contratos,56,19,1
+72,James el Cruel,Archidemonio,Recaudación,51,13,1
+73,Chris Eterno,Archidemonio,Almas corruptas,14,17,1
+74,Jerry Devoraalmas,Súcubo,Recaudación,47,21,1
+75,Reginald Devoraalmas,Analista Infernal,Recaudación,1,21,0
+76,Rodney Incontable,Analista Infernal,Contratos,13,17,1
+77,Courtney Devoraalmas,Súcubo,Castigos psicológicos,74,14,0
+78,Heather Incontable,Analista Infernal,Recaudación,12,18,1
+79,Nichole el Cruel,Analista Infernal,Fuego,49,18,1
+80,Barbara el Cruel,Analista Infernal,Castigos psicológicos,71,12,1
+81,Cynthia la Sombra,Íncubo,Recaudación,52,15,1
+82,Sara Eterno,Íncubo,Recaudación,64,14,0
+83,Dave Devoraalmas,Archidemonio,Castigos psicológicos,50,12,0
+84,Roy Devoraalmas,Súcubo,Contratos,38,15,1
+85,Christine el Cruel,Íncubo,Recaudación,10,14,1
+86,Heather el Cruel,Analista Infernal,Almas corruptas,52,19,1
+87,Jeffrey el Cruel,Archidemonio,Castigos psicológicos,58,19,0
+88,Kevin la Sombra,Súcubo,Contratos,49,17,1
+89,Joseph Eterno,Íncubo,Contratos,35,16,1
+90,Darryl Eterno,Analista Infernal,Recaudación,24,14,0
+91,Robert Eterno,Súcubo,Fuego,85,18,1
+92,Alexander Eterno,Analista Infernal,Almas corruptas,58,15,1
+93,Jessica Devoraalmas,Súcubo,Fuego,46,17,1
+94,Shawn Incontable,Súcubo,Almas corruptas,97,17,0
+95,Margaret Incontable,Analista Infernal,Recaudación,33,20,0
+96,Debra Incontable,Súcubo,Fuego,47,21,0
+97,Rita la Sombra,Súcubo,Contratos,84,16,0
+98,Gina Devoraalmas,Archidemonio,Almas corruptas,80,14,1
+99,Allison el Cruel,Súcubo,Fuego,56,16,1
+100,Patrick Devoraalmas,Íncubo,Almas corruptas,41,15,0
+101,Matthew Devoraalmas,Íncubo,Recaudación,32,19,0
+102,Patricia Incontable,Íncubo,Contratos,10,14,1
+103,Jasmine Eterno,Analista Infernal,Fuego,47,13,0
+104,Rachel Eterno,Archidemonio,Castigos psicológicos,49,17,0
+105,Amanda Incontable,Archidemonio,Recaudación,3,19,1
+106,Faith Devoraalmas,Analista Infernal,Castigos psicológicos,76,15,0
+107,Robert Eterno,Íncubo,Almas corruptas,97,18,1
+108,Anthony la Sombra,Analista Infernal,Almas corruptas,18,19,0
+109,Laura Devoraalmas,Verdugo,Fuego,50,16,1
+110,Austin la Sombra,Analista Infernal,Contratos,4,16,0
+111,Michael el Cruel,Íncubo,Recaudación,62,17,1
+112,Alan Eterno,Archidemonio,Almas corruptas,57,12,1
+113,Robert Devoraalmas,Analista Infernal,Contratos,95,18,1
+114,Katherine el Cruel,Súcubo,Almas corruptas,36,14,1
+115,Brian Eterno,Verdugo,Castigos psicológicos,33,12,1
+116,Stephanie el Cruel,Verdugo,Contratos,99,19,1
+117,Eric la Sombra,Verdugo,Recaudación,5,17,1
+118,Michael Devoraalmas,Analista Infernal,Fuego,92,15,1
+119,Timothy la Sombra,Súcubo,Recaudación,79,12,1
+120,Erin Devoraalmas,Súcubo,Recaudación,85,20,1
+121,Carrie Devoraalmas,Íncubo,Contratos,77,17,1
+122,Sarah Eterno,Súcubo,Recaudación,45,19,0
+123,Joyce Incontable,Verdugo,Castigos psicológicos,67,16,0
+124,Jessica Devoraalmas,Súcubo,Castigos psicológicos,47,15,1
+125,Marcus Devoraalmas,Analista Infernal,Recaudación,1,15,0
+126,Howard Devoraalmas,Verdugo,Contratos,83,13,1
+127,Melissa el Cruel,Íncubo,Contratos,90,12,1
+128,Kyle Incontable,Verdugo,Almas corruptas,36,15,1
+129,Gregory el Cruel,Archidemonio,Castigos psicológicos,79,19,1
+130,Katherine Eterno,Íncubo,Recaudación,73,19,1
+131,Ralph Eterno,Analista Infernal,Recaudación,71,17,1
+132,Teresa el Cruel,Analista Infernal,Contratos,74,14,0
+133,Johnny Devoraalmas,Archidemonio,Contratos,39,16,0
+134,Julia Eterno,Verdugo,Fuego,26,17,0
+135,Kenneth el Cruel,Íncubo,Contratos,97,20,1
+136,Jessica la Sombra,Íncubo,Fuego,46,17,1
+137,Renee el Cruel,Archidemonio,Recaudación,72,12,1
+138,James el Cruel,Archidemonio,Contratos,71,19,0
+139,Sylvia el Cruel,Analista Infernal,Almas corruptas,27,18,0
+140,Robert Eterno,Verdugo,Almas corruptas,18,14,0
+141,Lisa Devoraalmas,Archidemonio,Recaudación,67,20,0
+142,Roger la Sombra,Súcubo,Fuego,85,13,1
+143,Micheal el Cruel,Archidemonio,Recaudación,90,17,0
+144,Jamie Eterno,Archidemonio,Fuego,52,16,0
+145,Angela Incontable,Analista Infernal,Almas corruptas,69,16,0
+146,Katherine el Cruel,Verdugo,Recaudación,9,20,0
+147,Dawn Incontable,Súcubo,Fuego,24,14,1
+148,George Eterno,Archidemonio,Castigos psicológicos,21,20,0
+149,Matthew el Cruel,Verdugo,Contratos,82,14,0
+150,Christopher Incontable,Analista Infernal,Recaudación,64,20,0
+151,Michael Incontable,Súcubo,Recaudación,3,21,1
+152,Patrick Eterno,Íncubo,Recaudación,89,19,0
+153,Joshua el Cruel,Analista Infernal,Fuego,87,13,0
+154,Elizabeth Incontable,Analista Infernal,Fuego,30,13,0
+155,Jennifer el Cruel,Archidemonio,Recaudación,92,14,0
+156,Jaime Incontable,Archidemonio,Recaudación,73,20,0
+157,Melanie la Sombra,Súcubo,Recaudación,83,19,1
+158,David Devoraalmas,Súcubo,Recaudación,6,16,1
+159,Todd Devoraalmas,Analista Infernal,Castigos psicológicos,95,17,1
+160,Misty la Sombra,Íncubo,Fuego,38,14,1
+161,Elizabeth el Cruel,Verdugo,Fuego,5,18,0
+162,Jennifer Eterno,Analista Infernal,Recaudación,40,12,0
+163,Nathan la Sombra,Íncubo,Almas corruptas,87,18,1
+164,Randy la Sombra,Archidemonio,Almas corruptas,27,20,0
+165,Ann la Sombra,Analista Infernal,Castigos psicológicos,65,15,1
+166,Michael el Cruel,Archidemonio,Fuego,11,14,1
+167,Geoffrey Devoraalmas,Íncubo,Contratos,37,16,0
+168,Barbara la Sombra,Analista Infernal,Fuego,66,12,1
+169,Curtis Incontable,Archidemonio,Contratos,25,20,0
+170,Charles el Cruel,Analista Infernal,Castigos psicológicos,76,13,0
+171,Andrea la Sombra,Verdugo,Fuego,51,18,0
+172,Shannon la Sombra,Archidemonio,Contratos,65,13,0
+173,Stephanie la Sombra,Íncubo,Almas corruptas,56,20,1
+174,Nathan el Cruel,Verdugo,Fuego,15,18,0
+175,Susan el Cruel,Verdugo,Almas corruptas,22,20,1
+176,Alison el Cruel,Súcubo,Castigos psicológicos,88,18,0
+177,Angel Eterno,Analista Infernal,Contratos,7,16,1
+178,Jennifer el Cruel,Súcubo,Castigos psicológicos,71,21,0
+179,Sheri Incontable,Súcubo,Castigos psicológicos,72,19,0
+180,Austin Eterno,Verdugo,Fuego,88,12,1
+181,Katie Devoraalmas,Verdugo,Almas corruptas,65,13,1
+182,Leah Eterno,Íncubo,Recaudación,38,20,0
+183,Katherine Devoraalmas,Súcubo,Castigos psicológicos,82,17,1
+184,Henry la Sombra,Íncubo,Fuego,80,12,1
+185,Jason Devoraalmas,Verdugo,Castigos psicológicos,47,15,0
+186,Alexander Devoraalmas,Archidemonio,Fuego,21,13,1
+187,Christopher la Sombra,Íncubo,Castigos psicológicos,19,17,1
+188,Adriana Incontable,Íncubo,Fuego,73,13,1
+189,Lauren Eterno,Analista Infernal,Recaudación,14,12,1
+190,Tracy el Cruel,Íncubo,Recaudación,79,17,1
+191,Gregory la Sombra,Súcubo,Fuego,39,17,1
+192,Brian Eterno,Verdugo,Contratos,59,14,1
+193,Michael el Cruel,Verdugo,Fuego,21,12,0
+194,Molly Eterno,Verdugo,Recaudación,67,14,0
+195,Anthony el Cruel,Íncubo,Recaudación,52,15,0
+196,Natalie Eterno,Verdugo,Fuego,52,15,0
+197,Justin Devoraalmas,Analista Infernal,Castigos psicológicos,31,21,0
+198,Marcus el Cruel,Verdugo,Almas corruptas,100,18,1
+199,Dillon Eterno,Íncubo,Castigos psicológicos,67,13,0
+200,Michelle Eterno,Súcubo,Recaudación,7,13,0
+201,Tiffany Incontable,Íncubo,Castigos psicológicos,54,12,0
+202,Edward Incontable,Archidemonio,Fuego,8,18,0
+203,Sarah Incontable,Analista Infernal,Castigos psicológicos,44,13,0
+204,Riley Incontable,Íncubo,Almas corruptas,8,13,0
+205,Mark Incontable,Analista Infernal,Castigos psicológicos,95,17,0
+206,Cynthia la Sombra,Archidemonio,Castigos psicológicos,54,15,1
+207,Ian Devoraalmas,Íncubo,Almas corruptas,22,12,0
+208,William Devoraalmas,Íncubo,Fuego,48,16,1
+209,Alex Incontable,Archidemonio,Castigos psicológicos,19,18,1
+210,Seth Eterno,Súcubo,Fuego,63,19,0
+211,Steven Eterno,Íncubo,Fuego,40,15,1
+212,Martin la Sombra,Verdugo,Almas corruptas,83,18,1
+213,Diane Eterno,Analista Infernal,Fuego,95,17,0
+214,Karen el Cruel,Archidemonio,Contratos,10,15,1
+215,Nathan la Sombra,Súcubo,Castigos psicológicos,87,17,0
+216,Edgar la Sombra,Súcubo,Almas corruptas,56,13,0
+217,Jennifer el Cruel,Súcubo,Fuego,24,12,1
+218,Elizabeth el Cruel,Archidemonio,Contratos,97,20,1
+219,Amanda el Cruel,Íncubo,Recaudación,24,18,1
+220,Melissa Devoraalmas,Verdugo,Fuego,52,21,1
+221,Philip la Sombra,Archidemonio,Fuego,53,15,1
+222,Amanda el Cruel,Archidemonio,Castigos psicológicos,65,12,0
+223,Douglas la Sombra,Verdugo,Castigos psicológicos,1,17,1
+224,Chase el Cruel,Archidemonio,Contratos,32,13,1
+225,Joseph Devoraalmas,Analista Infernal,Castigos psicológicos,58,14,0
+226,Jocelyn Eterno,Súcubo,Contratos,47,19,1
+227,Latoya Eterno,Analista Infernal,Contratos,99,15,1
+228,Stephanie la Sombra,Archidemonio,Recaudación,26,13,0
+229,Melissa Devoraalmas,Súcubo,Almas corruptas,33,17,1
+230,Barbara la Sombra,Súcubo,Castigos psicológicos,42,14,1
+231,Robert Incontable,Archidemonio,Almas corruptas,69,14,1
+232,David Eterno,Súcubo,Castigos psicológicos,23,21,1
+233,Erin el Cruel,Analista Infernal,Almas corruptas,20,18,0
+234,Jonathan Eterno,Súcubo,Contratos,74,15,1
+235,Kimberly el Cruel,Analista Infernal,Contratos,63,19,0
+236,Ashley el Cruel,Verdugo,Recaudación,30,12,1
+237,Brian Incontable,Analista Infernal,Contratos,49,15,1
+238,Andrew el Cruel,Súcubo,Recaudación,56,17,0
+239,Alexander Eterno,Verdugo,Contratos,93,15,0
+240,Anthony la Sombra,Íncubo,Contratos,20,13,1
+241,John la Sombra,Íncubo,Castigos psicológicos,92,21,1
+242,April Devoraalmas,Súcubo,Fuego,20,17,1
+243,Ryan Eterno,Íncubo,Contratos,61,16,0
+244,Joseph la Sombra,Archidemonio,Contratos,90,19,0
+245,David la Sombra,Archidemonio,Recaudación,66,20,1
+246,Chad el Cruel,Verdugo,Fuego,15,15,0
+247,Grant Incontable,Verdugo,Fuego,50,12,0
+248,Michael la Sombra,Íncubo,Fuego,70,12,0
+249,Kyle Devoraalmas,Íncubo,Fuego,69,17,1
+250,Kayla Incontable,Analista Infernal,Recaudación,24,12,1
+251,Paige Incontable,Archidemonio,Contratos,81,20,1
+252,Michael el Cruel,Súcubo,Contratos,4,19,0
+253,Karen Eterno,Súcubo,Contratos,20,18,0
+254,Edwin Devoraalmas,Súcubo,Contratos,72,15,1
+255,Joseph Incontable,Íncubo,Castigos psicológicos,44,14,0
+256,Edward Eterno,Íncubo,Almas corruptas,28,15,0
+257,Jason Incontable,Archidemonio,Almas corruptas,79,13,0
+258,Frank Devoraalmas,Súcubo,Castigos psicológicos,78,12,0
+259,Erin la Sombra,Íncubo,Almas corruptas,38,19,0
+260,Crystal Eterno,Súcubo,Recaudación,52,15,0
+261,Jennifer Incontable,Analista Infernal,Castigos psicológicos,96,16,0
+262,Joe el Cruel,Súcubo,Castigos psicológicos,37,18,0
+263,Cathy Eterno,Súcubo,Castigos psicológicos,80,12,1
+264,Susan la Sombra,Analista Infernal,Contratos,63,12,1
+265,Louis la Sombra,Súcubo,Contratos,65,15,0
+266,Angela Eterno,Súcubo,Almas corruptas,35,21,1
+267,Lauren Devoraalmas,Archidemonio,Contratos,69,17,0
+268,Gabrielle la Sombra,Verdugo,Castigos psicológicos,52,13,0
+269,Ashley Incontable,Súcubo,Fuego,68,21,0
+270,Rachel Eterno,Súcubo,Recaudación,78,14,1
+271,Allison Devoraalmas,Analista Infernal,Almas corruptas,85,14,1
+272,Alicia Devoraalmas,Verdugo,Recaudación,96,19,0
+273,Christina Incontable,Súcubo,Almas corruptas,7,17,0
+274,Brenda Eterno,Súcubo,Contratos,52,18,1
+275,Michael Devoraalmas,Verdugo,Almas corruptas,61,16,1
+276,Jonathan Incontable,Súcubo,Almas corruptas,11,17,1
+277,Mark la Sombra,Íncubo,Almas corruptas,82,18,1
+278,Heather el Cruel,Íncubo,Recaudación,28,19,1
+279,Clarence Devoraalmas,Súcubo,Almas corruptas,39,20,1
+280,Donald la Sombra,Súcubo,Fuego,88,16,1
+281,Anthony la Sombra,Archidemonio,Almas corruptas,3,19,1
+282,Charles Devoraalmas,Analista Infernal,Fuego,47,16,0
+283,Jennifer el Cruel,Analista Infernal,Almas corruptas,94,12,1
+284,Philip la Sombra,Archidemonio,Almas corruptas,63,12,1
+285,Carl Devoraalmas,Verdugo,Recaudación,19,18,0
+286,Timothy Incontable,Analista Infernal,Recaudación,27,18,1
+287,Linda la Sombra,Archidemonio,Recaudación,22,20,1
+288,Susan Devoraalmas,Íncubo,Contratos,11,20,1
+289,Thomas el Cruel,Súcubo,Fuego,13,19,0
+290,Elizabeth Incontable,Súcubo,Almas corruptas,6,21,0
+291,Erica Devoraalmas,Analista Infernal,Fuego,50,12,0
+292,Evan el Cruel,Archidemonio,Castigos psicológicos,36,17,0
+293,Matthew la Sombra,Súcubo,Recaudación,76,14,0
+294,Dylan Devoraalmas,Íncubo,Almas corruptas,9,21,0
+295,David Incontable,Analista Infernal,Contratos,14,15,1
+296,Dawn Incontable,Archidemonio,Recaudación,22,12,1
+297,Michael Eterno,Archidemonio,Castigos psicológicos,68,15,0
+298,Amanda Devoraalmas,Súcubo,Contratos,62,21,0
+299,Emily Eterno,Archidemonio,Castigos psicológicos,78,12,1
+300,Tracy el Cruel,Íncubo,Contratos,89,12,0
+301,Richard la Sombra,Archidemonio,Castigos psicológicos,4,13,0
+302,Natasha Incontable,Archidemonio,Recaudación,57,21,0
+303,Philip Devoraalmas,Archidemonio,Fuego,7,15,1
+304,Shannon Incontable,Archidemonio,Almas corruptas,18,12,0
+305,Christopher Eterno,Analista Infernal,Contratos,68,16,0
+306,Michelle Eterno,Analista Infernal,Fuego,70,13,0
+307,John Eterno,Verdugo,Recaudación,38,14,1
+308,Lance Incontable,Íncubo,Castigos psicológicos,46,16,0
+309,Elizabeth Eterno,Íncubo,Almas corruptas,92,20,1
+310,Alexis Incontable,Analista Infernal,Recaudación,96,16,0
+311,Thomas el Cruel,Analista Infernal,Almas corruptas,11,21,1
+312,Dana Eterno,Súcubo,Recaudación,60,20,1
+313,Daniel Devoraalmas,Súcubo,Contratos,39,18,1
+314,Stephanie el Cruel,Archidemonio,Almas corruptas,5,19,1
+315,Joann el Cruel,Archidemonio,Fuego,60,16,1
+316,Angela Incontable,Íncubo,Fuego,87,18,1
+317,Benjamin Incontable,Íncubo,Recaudación,41,13,1
+318,Mark Eterno,Íncubo,Almas corruptas,98,19,1
+319,Renee Devoraalmas,Analista Infernal,Fuego,53,14,0
+320,James Eterno,Analista Infernal,Almas corruptas,18,18,0
+321,Leah la Sombra,Verdugo,Fuego,83,14,1
+322,Zachary Eterno,Archidemonio,Recaudación,66,13,1
+323,Christopher Devoraalmas,Súcubo,Castigos psicológicos,33,14,1
+324,Kevin Incontable,Íncubo,Castigos psicológicos,23,17,0
+325,Reginald Eterno,Verdugo,Recaudación,39,14,0
+326,Wayne Devoraalmas,Verdugo,Castigos psicológicos,40,12,0
+327,Andres el Cruel,Analista Infernal,Fuego,94,13,1
+328,Christopher Eterno,Archidemonio,Castigos psicológicos,70,20,0
+329,Patricia Incontable,Verdugo,Fuego,86,21,1
+330,Melissa la Sombra,Súcubo,Castigos psicológicos,97,15,1
+331,Max Eterno,Íncubo,Recaudación,92,19,1
+332,Thomas Eterno,Súcubo,Almas corruptas,53,15,1
+333,Tiffany Devoraalmas,Súcubo,Contratos,31,20,0
+334,Kathleen la Sombra,Íncubo,Fuego,13,17,1
+335,Brian Devoraalmas,Analista Infernal,Contratos,52,16,1
+336,Drew Eterno,Súcubo,Fuego,58,16,0
+337,Cynthia Incontable,Analista Infernal,Recaudación,19,14,1
+338,John el Cruel,Súcubo,Almas corruptas,58,13,1
+339,Randy el Cruel,Súcubo,Contratos,65,13,0
+340,Pamela la Sombra,Archidemonio,Recaudación,75,12,0
+341,Debra la Sombra,Analista Infernal,Fuego,17,16,0
+342,John Devoraalmas,Íncubo,Almas corruptas,97,18,0
+343,Darryl Incontable,Súcubo,Fuego,13,12,1
+344,Laura la Sombra,Verdugo,Castigos psicológicos,78,19,0
+345,Megan el Cruel,Analista Infernal,Fuego,52,18,1
+346,John Devoraalmas,Archidemonio,Almas corruptas,84,19,0
+347,Austin Devoraalmas,Verdugo,Fuego,3,13,1
+348,Jeffrey el Cruel,Súcubo,Castigos psicológicos,34,16,1
+349,Troy la Sombra,Íncubo,Contratos,78,15,1
+350,Catherine Devoraalmas,Íncubo,Fuego,88,18,1
+351,Tony el Cruel,Íncubo,Castigos psicológicos,1,13,1
+352,Michelle Incontable,Archidemonio,Contratos,50,15,0
+353,Frank el Cruel,Verdugo,Almas corruptas,6,19,0
+354,Alexis la Sombra,Súcubo,Castigos psicológicos,1,18,1
+355,William el Cruel,Archidemonio,Contratos,68,12,0
+356,Kaylee Incontable,Archidemonio,Castigos psicológicos,86,21,1
+357,John Devoraalmas,Verdugo,Recaudación,58,20,1
+358,Joseph Eterno,Analista Infernal,Contratos,27,19,0
+359,Daniel Incontable,Íncubo,Contratos,17,16,0
+360,Daniel Devoraalmas,Verdugo,Castigos psicológicos,6,21,1
+361,Thomas Devoraalmas,Verdugo,Contratos,71,13,1
+362,Linda Devoraalmas,Súcubo,Recaudación,44,16,1
+363,Vanessa Incontable,Archidemonio,Recaudación,93,15,1
+364,Emily Eterno,Verdugo,Contratos,51,19,1
+365,Krista Devoraalmas,Archidemonio,Recaudación,58,20,0
+366,Sydney la Sombra,Archidemonio,Almas corruptas,1,18,1
+367,Madison Devoraalmas,Súcubo,Fuego,23,14,0
+368,Matthew Devoraalmas,Verdugo,Almas corruptas,8,20,1
+369,Angela la Sombra,Súcubo,Almas corruptas,19,15,0
+370,Kaitlin la Sombra,Analista Infernal,Recaudación,89,14,0
+371,Laura el Cruel,Verdugo,Castigos psicológicos,12,18,0
+372,Jamie Eterno,Analista Infernal,Recaudación,52,17,1
+373,Olivia Eterno,Verdugo,Fuego,43,15,0
+374,John Incontable,Analista Infernal,Castigos psicológicos,78,13,0
+375,Joshua Incontable,Verdugo,Recaudación,40,18,0
+376,Alexis Eterno,Súcubo,Almas corruptas,34,16,0
+377,Michael Devoraalmas,Archidemonio,Recaudación,100,18,1
+378,Andrea Incontable,Verdugo,Recaudación,29,19,1
+379,Tonya Incontable,Íncubo,Contratos,25,14,0
+380,Timothy Eterno,Analista Infernal,Contratos,20,13,0
+381,Billy Incontable,Íncubo,Almas corruptas,2,21,0
+382,Laura el Cruel,Íncubo,Recaudación,42,12,1
+383,Bradley Devoraalmas,Súcubo,Recaudación,93,12,0
+384,Antonio Eterno,Archidemonio,Almas corruptas,59,15,1
+385,Linda Devoraalmas,Súcubo,Castigos psicológicos,25,21,1
+386,Alice Devoraalmas,Analista Infernal,Contratos,69,16,1
+387,Stacy la Sombra,Súcubo,Almas corruptas,33,20,1
+388,Robert Eterno,Archidemonio,Fuego,64,12,1
+389,Katie Devoraalmas,Verdugo,Fuego,71,21,0
+390,Brenda Eterno,Archidemonio,Castigos psicológicos,67,19,1
+391,Vanessa Eterno,Archidemonio,Contratos,31,14,0
+392,Darin la Sombra,Verdugo,Recaudación,52,20,0
+393,Gina Devoraalmas,Analista Infernal,Recaudación,83,13,0
+394,Michael la Sombra,Íncubo,Fuego,56,21,1
+395,Annette Eterno,Analista Infernal,Recaudación,26,14,0
+396,Lauren la Sombra,Analista Infernal,Almas corruptas,37,14,0
+397,Hannah Incontable,Súcubo,Castigos psicológicos,16,17,0
+398,Linda el Cruel,Verdugo,Contratos,12,16,0
+399,Susan la Sombra,Analista Infernal,Contratos,15,21,0
+400,Michael Incontable,Íncubo,Almas corruptas,94,17,0
+401,Lisa el Cruel,Íncubo,Contratos,68,15,0
+402,Janice la Sombra,Analista Infernal,Almas corruptas,90,15,0
+403,Nicholas Incontable,Íncubo,Recaudación,7,12,0
+404,Heather la Sombra,Súcubo,Contratos,89,19,0
+405,Erin Incontable,Archidemonio,Contratos,36,18,0
+406,Madison Devoraalmas,Súcubo,Almas corruptas,39,21,1
+407,Thomas Incontable,Súcubo,Recaudación,15,21,0
+408,Catherine Incontable,Analista Infernal,Recaudación,16,13,0
+409,Darin la Sombra,Súcubo,Almas corruptas,83,14,1
+410,William Incontable,Analista Infernal,Almas corruptas,88,21,1
+411,Brandon Incontable,Analista Infernal,Recaudación,11,13,1
+412,Christine la Sombra,Archidemonio,Contratos,61,13,0
+413,Kaitlyn Incontable,Íncubo,Recaudación,96,13,1
+414,Aaron Eterno,Súcubo,Recaudación,52,20,1
+415,Jacqueline el Cruel,Analista Infernal,Fuego,41,16,1
+416,Travis el Cruel,Súcubo,Almas corruptas,67,19,0
+417,Mary el Cruel,Íncubo,Almas corruptas,61,18,0
+418,Madison la Sombra,Archidemonio,Fuego,52,17,1
+419,Albert Incontable,Archidemonio,Fuego,13,16,0
+420,Heather Devoraalmas,Verdugo,Fuego,87,12,1
+421,Arthur Incontable,Analista Infernal,Almas corruptas,70,19,1
+422,Stephanie el Cruel,Analista Infernal,Recaudación,66,16,1
+423,Norma Devoraalmas,Analista Infernal,Castigos psicológicos,91,14,1
+424,Timothy la Sombra,Archidemonio,Almas corruptas,70,15,0
+425,Kenneth la Sombra,Súcubo,Almas corruptas,92,20,0
+426,Timothy Eterno,Archidemonio,Contratos,57,18,1
+427,Rebecca la Sombra,Analista Infernal,Recaudación,22,12,1
+428,Linda Devoraalmas,Íncubo,Contratos,68,13,0
+429,Jeremy Devoraalmas,Íncubo,Fuego,78,12,0
+430,Edward Devoraalmas,Íncubo,Castigos psicológicos,19,20,1
+431,Lauren el Cruel,Súcubo,Contratos,90,18,0
+432,Catherine la Sombra,Súcubo,Castigos psicológicos,95,18,1
+433,Corey Eterno,Verdugo,Contratos,3,19,0
+434,Mary Eterno,Archidemonio,Castigos psicológicos,79,14,0
+435,Juan el Cruel,Íncubo,Almas corruptas,64,21,0
+436,Lisa la Sombra,Súcubo,Fuego,28,14,0
+437,Gabriel la Sombra,Analista Infernal,Recaudación,7,21,0
+438,Erica Eterno,Analista Infernal,Almas corruptas,83,14,0
+439,Gary Eterno,Íncubo,Contratos,50,21,1
+440,John Eterno,Analista Infernal,Castigos psicológicos,23,21,1
+441,Larry el Cruel,Archidemonio,Contratos,4,21,1
+442,Tracy la Sombra,Analista Infernal,Recaudación,45,20,1
+443,Ian el Cruel,Analista Infernal,Almas corruptas,11,15,1
+444,Angelica el Cruel,Íncubo,Almas corruptas,25,19,1
+445,Jenna Incontable,Íncubo,Castigos psicológicos,88,18,1
+446,Shannon Devoraalmas,Analista Infernal,Fuego,75,21,1
+447,Jessica Eterno,Súcubo,Contratos,48,18,0
+448,Jeffrey la Sombra,Archidemonio,Recaudación,77,13,1
+449,Colton la Sombra,Analista Infernal,Castigos psicológicos,79,17,0
+450,Pamela el Cruel,Súcubo,Almas corruptas,6,20,1
+451,Keith Eterno,Analista Infernal,Recaudación,20,20,1
+452,Robert Incontable,Súcubo,Fuego,52,18,0
+453,Jeremy Eterno,Íncubo,Recaudación,92,19,1
+454,Anne el Cruel,Íncubo,Recaudación,29,13,1
+455,Kristen el Cruel,Súcubo,Castigos psicológicos,82,13,0
+456,Janet Eterno,Súcubo,Contratos,47,21,0
+457,Tina la Sombra,Archidemonio,Castigos psicológicos,42,14,1
+458,Austin la Sombra,Archidemonio,Contratos,66,13,0
+459,James Eterno,Analista Infernal,Fuego,17,20,0
+460,Jennifer Devoraalmas,Archidemonio,Recaudación,41,16,1
+461,David el Cruel,Íncubo,Fuego,8,20,0
+462,Ralph la Sombra,Archidemonio,Fuego,12,21,0
+463,Trevor el Cruel,Verdugo,Castigos psicológicos,91,21,1
+464,Shaun la Sombra,Analista Infernal,Recaudación,34,16,1
+465,Christian Incontable,Archidemonio,Contratos,66,17,0
+466,Misty Devoraalmas,Súcubo,Almas corruptas,50,19,0
+467,Sharon el Cruel,Analista Infernal,Contratos,25,13,1
+468,Michele la Sombra,Íncubo,Castigos psicológicos,98,21,1
+469,Patricia el Cruel,Archidemonio,Almas corruptas,76,14,0
+470,Jennifer el Cruel,Íncubo,Recaudación,97,15,1
+471,Christine Eterno,Analista Infernal,Recaudación,62,16,1
+472,Haley Eterno,Analista Infernal,Recaudación,88,18,0
+473,Brandon Incontable,Archidemonio,Fuego,6,17,0
+474,John Devoraalmas,Analista Infernal,Contratos,91,18,1
+475,Stacie el Cruel,Analista Infernal,Recaudación,95,18,1
+476,Rodney Devoraalmas,Analista Infernal,Almas corruptas,38,13,0
+477,Kimberly Eterno,Íncubo,Recaudación,42,21,0
+478,Summer Devoraalmas,Analista Infernal,Almas corruptas,29,19,1
+479,Anthony la Sombra,Súcubo,Fuego,88,18,1
+480,Bryan Devoraalmas,Súcubo,Recaudación,1,21,1
+481,Calvin Incontable,Íncubo,Castigos psicológicos,25,17,1
+482,Katherine Incontable,Súcubo,Fuego,42,16,0
+483,Roy la Sombra,Íncubo,Recaudación,30,19,1
+484,Eric Incontable,Íncubo,Fuego,98,14,0
+485,Richard Devoraalmas,Archidemonio,Fuego,66,21,1
+486,Mary Incontable,Archidemonio,Recaudación,61,20,0
+487,Cheryl Eterno,Archidemonio,Castigos psicológicos,29,12,0
+488,Thomas Devoraalmas,Súcubo,Almas corruptas,16,16,1
+489,Katherine la Sombra,Súcubo,Almas corruptas,89,18,0
+490,Jacqueline la Sombra,Analista Infernal,Fuego,83,13,0
+491,Jacob el Cruel,Verdugo,Fuego,5,19,1
+492,Harold Devoraalmas,Súcubo,Fuego,60,14,0
+493,Thomas Eterno,Analista Infernal,Recaudación,31,17,0
+494,Joseph Eterno,Súcubo,Recaudación,64,19,1
+495,Anthony Devoraalmas,Verdugo,Fuego,40,21,1
+496,Cathy Incontable,Analista Infernal,Castigos psicológicos,43,17,1
+497,Tammy la Sombra,Analista Infernal,Almas corruptas,28,13,0
+498,Jeanne la Sombra,Súcubo,Almas corruptas,32,17,0
+499,Thomas Devoraalmas,Analista Infernal,Contratos,42,15,0
+500,Lauren la Sombra,Súcubo,Fuego,62,18,0
